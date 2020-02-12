@@ -6,5 +6,8 @@
   "fiels": [
     "foo",
     "bar"
-  ]
+  ],
+  "dependencies": {
+    "ip_test_ian": "^1.0.4"
+  }
 }
