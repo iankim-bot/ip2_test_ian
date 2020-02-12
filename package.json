@@ -1,0 +1,13 @@
+{
+  "name": "ip2_test_ian",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "fiels": [
+
+	  "foo",
+	  "bar"
+  ]
+
+
+}
