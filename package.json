@@ -8,6 +8,6 @@
     "bar"
   ],
   "dependencies": {
-    "ip_test_ian": "^1.0.4"
+    "ip3_test_ian": "^1.0.1"
   }
 }
